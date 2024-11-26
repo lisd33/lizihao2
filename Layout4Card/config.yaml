@@ -1,0 +1,8 @@
+# deploy config
+port: 5000
+infer_weights: ./runs/detect/train3/weights/best.pt
+
+# training config
+dataset: ./utils/out4/dataset.yaml
+model: ./model/yolov8m.yaml
+training_weights: ./runs/detect/train3/weights/best.pt

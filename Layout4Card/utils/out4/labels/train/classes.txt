@@ -1,0 +1,6 @@
+subjective_question
+student_name
+student_idhand
+student_idfilling
+exam_title
+objective_question
