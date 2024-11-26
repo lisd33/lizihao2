@@ -1,7 +1,0 @@
-train: C:\Users\53409\Desktop\OCRAutoScore-master\segmentation\Layout4Card\utils\out4\images\train
-val: C:\Users\53409\Desktop\OCRAutoScore-master\segmentation\Layout4Card\utils\out4\images\val
-test: C:\Users\53409\Desktop\OCRAutoScore-master\segmentation\Layout4Card\utils\out4\images\val
-
-nc: 6
-
-names: ['student_idhand', 'student_name', 'subjective_question', 'exam_title', 'student_idfilling', 'objective_question']
